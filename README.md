@@ -9,8 +9,16 @@ performance, and monthly sales trends. The main aim is to create an interactive 
 dashboard that highlights these findings
 
 ### Tools Used:
--Excel
+-Excel {Dowload here} (http://www.excel.com)
 -SQL
 -Power BI
 
-### 
+### Dataset
+
+
+### 1. Excel
+**Using pivot tables to perform an initial exploration on:**
+1. Total sales by product, region, and month
+   
+2. Average sales per product 
+3. Total revenue by region.
