@@ -20,16 +20,14 @@ dashboard that highlights these findings
 -Power BI
 
 ### Dataset
-
-Worked on two datasets:
+I Worked on two datasets:
 - **SALES TREND**: Details on transactions, products, regions, and revenue.
 - **CUSTOMER SEGMENTATION**: Information about customers, their subscriptions, revenues, start and end dates, and cancellation statuses.
 
-
-
-### 1. Excel
-**Using pivot tables to perform an initial exploration on:**
-1. Total sales by product, region, and month
-   
+### Steps
+#### 1. Excel
+**SALES TREND**: Using pivot tables to perform an initial exploration on:**
+1. Total sales by product, region, and month  
 2. Average sales per product 
 3. Total revenue by region.
+**CUSTOMER SEGMENTATION**: 
