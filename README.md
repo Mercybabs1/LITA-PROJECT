@@ -53,11 +53,20 @@ I COoverted the xlsx file to CSV before loading it on my SQL Server
 6. Total revenue by subscription type.
 7. Top 3 regions by subscription cancellations.
 8. Total number of active and canceled subscriptions.
-#### 3. Power BI
 
-**SALES TREND**: 
-C
+   
+#### 3. Power BI
+Under the following segment i Created an Interactive dashboard using Power BI
+
+**SALES TREND**:  
+1. Sales overview.
+2. Top-performing products.
+3. Regional breakdowns.
+
 **CUSTOMER SEGMENTATION**:
+1. Customer segments.
+2. Cancellations.
+3. Subscription trends. 
 
 ### Insight
 **SALES TREND**:
