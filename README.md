@@ -26,8 +26,17 @@ I Worked on two datasets:
 
 ### Steps
 #### 1. Excel
-**SALES TREND**: Using pivot tables to perform an initial exploration on:**
-1. Total sales by product, region, and month  
-2. Average sales per product 
-3. Total revenue by region.
-**CUSTOMER SEGMENTATION**: 
+**SALES TREND**: Using pivot tables to perform an initial exploration on: Total sales by product, region, and month , Average sales per product and Total revenue by region.
+**CUSTOMER SEGMENTATION**:  Using pivot tables to perform an initial exploration on: Subscription duration, identify the most popular and subscription types
+
+#### 2. SQL
+**SALES TREND**: 
+**CUSTOMER SEGMENTATION**:
+
+#### 3. Power BI
+**SALES TREND**: 
+**CUSTOMER SEGMENTATION**:
+
+### Insight
+**SALES TREND**
+**CUSTOMER SEGMENTATION**:
