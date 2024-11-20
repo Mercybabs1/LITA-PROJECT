@@ -6,11 +6,10 @@ This project is a self-done project given by Ladies in Tech Africa in completion
 ## LITA PROJECT 2: Customer Segmentation for a Subscription Service
 
 ### Project Summary:
-To analyzing the sales performance of a retail store. By creating insights on the top-selling products, regional 
-performance, and monthly sales trends. The main aim is to create an interactive Power BI 
+**SALES TREND**:To analyze the sales performance of a retail store. By creating insights on the top-selling products, regional 
+performance, and monthly sales trends. The main aim is to create an interactive Power BI. 
 dashboard that highlights these findings
- **SALES TREND**:
- 
+**CUSTOMER SEGMENTATION**: To analyze customer data for a subscription service to identify the segments and trends. The goal is to understand customer behavior, track subscription types,and identify key trends in cancellations and renewals. In addition, creating an interactive Power BI.
 
 ### Tools Used:
 -Excel {Dowload here} (http://www.excel.com)
