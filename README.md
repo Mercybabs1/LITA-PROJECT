@@ -74,6 +74,8 @@ Under the following segment i Created an Interactive dashboard using Power BI
 
 ### Insight
 ---------------------------------------------------------------
-**SALES TREND**:
+**SALES TREND**
+1. Sales were higher in Febuary and July.
+2. Shoes has the higest Revenue generated.
 
 **CUSTOMER SEGMENTATION**:
